@@ -52,7 +52,7 @@ def main():
 		old_ext = '.'+  old_ext
 	# Set the variable new_ext with the third argument passed
 	new_ext = args['new_ext'][0]
-	if new_ext[0] != '.'
+	if new_ext[0] != '.':
 		new_ext = '.' + new_ext
 
 	batch_rename(work_dir, old_ext, new_ext)
