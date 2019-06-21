@@ -1,3 +1,3 @@
 # Introduction
 
-## This repository is for practicing python. 
+This repository is for practicing python. 
